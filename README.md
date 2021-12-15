@@ -1,6 +1,8 @@
-## Robin
-
 ### Hi there 👋
+
+Im Robin, a soon to be software engineer, currently studying at NTNU.  
+
+# I USE ARCH
 
 <!--
 - 🔭 I’m currently working on ...
