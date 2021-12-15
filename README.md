@@ -7,7 +7,11 @@ Another defining aspect of me is my utter hatred of Java. I define myself as an 
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord)](https://github.com/robvold/github-readme-stats)
+
+[![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
+
+
 
 I USE ARCH
 
