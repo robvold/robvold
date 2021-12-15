@@ -12,7 +12,7 @@ Another defining aspect of me is my utter hatred of Java. I define myself as an 
 
 <hr>
 
-I USE ARCH
+AND BTW, I USE ARCH
 
 <!--
 - 🔭 I’m currently working on ...
