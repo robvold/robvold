@@ -5,6 +5,10 @@ My interests revolve mainly around computing, especially parallelization. I also
 
 Another defining aspect of me is my utter hatred of Java. I define myself as an anti-java developer, that implying I want nothing but the complete removal of it from all corners of the world. I'm willing to go to extreme lengths to obtain this goal, even including programming i C#. If you're programming in java, you're my enemy. 
 
+<hr>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+
 I USE ARCH
 
 <!--
