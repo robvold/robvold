@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Robin, a soon to be software engineer, currently studying at NTNU Trondheim, Norway.  
-My interests revolve mainly around computing, especially parallelization. I also have a keen interest in how different programming languages work, and therfore I have a desire to learn a functional language in the future, like ROC or Haskell. 
+My interests revolve mainly around computing, especially parallelization. I also have a keen interest in how different programming languages work, and therfore I have a desire to learn a functional language in the future, like Roc or Haskell. 
 
 Another defining aspect of me is my utter hatred of Java. I define myself as an anti-java developer, that implying I want nothing but the complete removal of it from all corners of the world. I'm willing to go to extreme lengths to obtain this goal, even including programming i C#. If you're programming in java, you're my enemy. 
 
