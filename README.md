@@ -10,7 +10,7 @@ Another defining aspect of me is my utter hatred of Java. I define myself as an 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
 [![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
 
-
+<hr>
 
 I USE ARCH
 
