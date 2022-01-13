@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2380A0C0&size=46&center=true&width=1000&lines=Welcome)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2380A0C0&size=46&center=true&width=1000&height=80&lines=Welcome)](https://git.io/typing-svg)
 
 I'm Robin, a soon to be software engineer, currently studying at NTNU Trondheim, Norway.  
 My interests revolve mainly around computing, especially parallelization. I also have a keen interest in how different programming languages work, and therfore I have a desire to learn a functional language in the future, like Haskell. Im also developing a intereset in learning more about ML. 
