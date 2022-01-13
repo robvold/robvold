@@ -8,7 +8,7 @@ My interests revolve mainly around computing, especially parallelization. I also
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
 [![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
 
-## 
+
 <br> 
 
 AND BTW, I USE ARCH
