@@ -6,6 +6,8 @@ My interests revolve mainly around computing, especially parallelization. I also
 
 <a href="https://www.linkedin.com/in/robin-christoffer-vold-3183271b1/"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/linkedin.png" alt="Sivert Bjørnstad | LinkedIn" width="40px"/></a>
 
+<br>
+<br> 
 <br> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
