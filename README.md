@@ -1,22 +1,9 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2380A0C0&size=46&center=true&width=1000&height=80&lines=Welcome)](https://git.io/typing-svg)
-
-I'm Robin, software engineer at Stready.  
-My interests revolve mainly around computing, especially parallelization. I also have a keen interest in how different programming languages work, and therfore I have a desire to learn a functional language in the future, like Haskell.
-
-
-<a href="https://www.linkedin.com/in/robin-christoffer-vold-3183271b1/"><img align="left" src="https://github.com/bjornsiv/bjornsiv/blob/main/images/linkedin.png" alt="Robin C. Vold | LinkedIn" width="40px"/></a>
-
-<br>
-<br> 
-<br> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
-[![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2380A0C0&size=40&center=false&width=1000&height=55&lines=Hi)](https://git.io/typing-svg)
+I'm Robin, currently studying Quantum Information Science at KU/DTU.   
+I love learning new languages, algorithms, and solving problems efficiently using exciting technology! 
 
 <br> 
-
-AND BTW, I USE ARCH
+... and btw, I use Arch
 
 <!--
 - 🔭 I’m currently working on ...
@@ -27,4 +14,7 @@ AND BTW, I USE ARCH
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robvold&theme=nord&hide=makefile,cmake)](https://github.com/robvold/github-readme-stats)
+[![robvold's GitHub stats](https://github-readme-stats.vercel.app/api?username=robvold&hide=issues&count_private=true&theme=nord)](https://github.com/robvold/github-readme-stats)
 -->
